@@ -6,9 +6,7 @@ CIS 1200 Game Project README
 =: Overview :=
 ==============
 
-In this project, I've created a 2D horror game based on The Backrooms, an urban legend which describes an endless maze
-of empty offices. The objective of the game is to escape the Backrooms by locating the escape ladder before the time
-runs out. 
+In this project, I've created a 2D horror game based on The Backrooms, an urban legend which describes an endless maze of empty offices. The objective of the game is to escape the Backrooms by locating the escape ladder before the time runs out. 
 
 ===================
 =: Core Concepts :=
